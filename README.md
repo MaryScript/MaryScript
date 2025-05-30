@@ -45,5 +45,5 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/MaryScript/MaryScript/output/dist/snake.svg)
+
 
