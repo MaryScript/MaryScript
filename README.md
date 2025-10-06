@@ -1,12 +1,9 @@
-<h1 align="center">✨ Oi! Eu sou a Maria Paula ✨</h1>
+<h1 align="center">✨Maria✨</h1>
 
-<h3 align="center">💻 Estudante de Ciência da Computação | Desenvolvedora Full Stack - SENAI</h3>
+<h3 align="center">💻 Estudante de Ciência da Computação </h3>
 
 <p align="center">
-  🌱 Apaixonada por tecnologia, programação e projetos criativos.
-  <br/>
-  🚀 Atualmente estudando Java, JavaScript, C++ e HTML.
-  <br/>
+  🌱 Apaixonada por tecnologia, programação e projetos criativos. 
   📚 Sempre buscando aprender algo novo!
 </p>
 
