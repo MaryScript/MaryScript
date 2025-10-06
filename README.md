@@ -7,7 +7,7 @@
 
 ---
 
-### 🌱 O que estou a estudar agora:
+### 🌱 O que estou estudando agora:
 
 - Me aprofundando em **Estruturas de Dados e Algoritmos** com C e C++.
 - Explorando o universo do **Desenvolvimento Web** com C# e o ecossistema .NET.
