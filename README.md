@@ -1,48 +1,37 @@
-<h1 align="center">Maria Paula ✨</h1>
-<h3 align="center">Estudante de Ciência da Computação</h3>
+<h1 align="center">Maria Paula Ferreira</h1>
+<h3 align="center">Ciência da Computação | Infraestrutura Linux & Cibersegurança</h3>
 
 <p align="center">
-  Uma entusiasta da tecnologia focada em aprender, construir e resolver problemas.
+  <i>"Sempre buscando aprender mais e melhorar meus resultados."</i>
 </p>
 
 ---
 
-### 🌱 O que estou estudando agora:
+### 🚀 Foco Profissional & Estudos
 
-- Me aprofundando em **Estruturas de Dados e Algoritmos** com C e C++.
-- Explorando o universo do **Desenvolvimento Web** com C# e o ecossistema .NET.
-- Buscando sempre novos desafios para aplicar e consolidar o conhecimento.
+Atualmente dedico meus estudos à base de sistemas operacionais e segurança defensiva:
+
+- 🐧 **Infraestrutura:** Administração de **Debian 13**, Shell Scripting e Hardening de servidores.
+- 🛡️ **Segurança:** Google Cybersecurity Certificate (Análise de riscos, redes e incidentes).
+- 🐍 **Automação:** Python para scripts de defesa e automação de tarefas.
+- 💻 **Base:** Algoritmos e Estruturas de Dados em C/C++ (UnDF).
 
 ---
 
-### 🛠️ &nbsp;Ferramentas e Tecnologias
+### 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,js,html,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,py,c,cpp,git,docker,vim,vscode&theme=dark" />
   </a>
-</p>
-
----
-
-### 📊 &nbsp;Estatísticas
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryScript&layout=compact&theme=dracula&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaryScript&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="170"/>
 </div>
 
 ---
 
-### 📫 &nbsp;Onde me encontrar
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="mailto:mariap.sousa@undf.edu.br" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maria-paula-ferreira321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaryScript&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryScript&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
 </div>
-
 
